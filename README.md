@@ -1,10 +1,10 @@
  👋🏾 Hi, I’m Idai Makoni 
   
-. 📈 I'm a Data Analyst 
+  . 📈 I'm a Data Analyst 
   
-. 📊 I like SQL, Tableau, and Excel.
+  . 📊 I like SQL, Tableau, and Excel.
 
-. 👨🏾‍💻 I'm currently learning Python
+  . 👨🏾‍💻 I'm currently learning Python
      
 
 
