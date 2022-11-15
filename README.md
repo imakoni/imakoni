@@ -1,5 +1,6 @@
-- 👋🏾 Hi, I’m Idai Makoni, Data Analyst 
-- 📊 I'm interested in SQL, Tableau, and Excel.
+ 👋🏾 Hi, I’m Idai Makoni 
+
+- 📊 I'm a Data Analyst interested in SQL, Tableau,  and Excel.
 - 👨🏾‍💻 I'm currently learning Python
      
 
